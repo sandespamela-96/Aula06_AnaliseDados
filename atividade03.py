@@ -11,5 +11,5 @@ for i in range(5):
         print(f'Valor final da compra: R$ {valor_final}')
 
     else: 
-        print(f'Não elegível para receber o desconto. Valor final da compra: R$ {valor}')
+        print(f'Não elegível para receber o desconto.\nValor final da compra: R$ {valor}')
 
